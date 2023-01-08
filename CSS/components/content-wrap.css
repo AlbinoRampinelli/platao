@@ -1,0 +1,8 @@
+@media only screen and (max-width: 760px) {
+    .content-wrap {
+        padding: 20px 0;
+    }
+}
+.content-wrap {
+    padding: 40px 0;
+}
