@@ -1,5 +1,5 @@
 .container{
-    background-color: #005599;
+    background-color: #fff;
     height: 780px;
     background-size: 100%;
     border-bottom: 10px solid #000;
@@ -13,6 +13,7 @@
     flex-direction:column;
     width: 230px;
     margin-left: 100px; 
+    
 
 }
 
