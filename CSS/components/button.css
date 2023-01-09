@@ -10,3 +10,9 @@
     transform: scale(1.08);
 }
 
+.button.maior {
+    width:180px;
+    margin-top: 0;
+}
+
+

@@ -1,12 +1,5 @@
-@media only screen and (max-width: 590px){
-.cb-course{
-    width: 100%;
+.cb-course {
+    background-color: #fff;
+    margin-right: 20px;
 }
 
-}
-.cb-course{
-    position: relative;
-    padding: 0 12px 24px;
-    width: 25%
-
-}

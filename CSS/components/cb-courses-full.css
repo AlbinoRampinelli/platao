@@ -1,7 +1,4 @@
-.cb-courses-ful {
-    display:flex;
-    flex-wrap:wrap;
-    margin-left:-12px;
-    margin-right: -12px;
-    margin-bottom: -24px;
+.cb-courses-full {
+    background-color: green;
+    
 }
