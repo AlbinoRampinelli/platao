@@ -10,10 +10,11 @@
     transform: scale(1.08);
 }
 
-.button.maior {
+.button.-maior {
     width:200px;
     margin-top: 0;
-    transition: none;
+    box-shadow: none;
+    transform: none;
 }
 
 

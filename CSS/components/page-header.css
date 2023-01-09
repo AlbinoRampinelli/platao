@@ -4,3 +4,8 @@
         font-weight: bold;
         color: #444;
 }
+
+.page-header.-second  {
+    color:#000;
+    text-align: center;
+}
