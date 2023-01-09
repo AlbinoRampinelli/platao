@@ -11,8 +11,9 @@
 }
 
 .button.maior {
-    width:180px;
+    width:200px;
     margin-top: 0;
+    transition: none;
 }
 
 
