@@ -1,0 +1,10 @@
+.main-bg {
+    background-color: #d4edfc;
+    background-position: center -50px;
+    overflow: hidden;
+}
+main{
+    flex: 1 auto;
+    display:block;
+    background: #44edfc;
+}

@@ -1,0 +1,10 @@
+#box {
+    display: inline-block;
+    background-color: #fff;
+    text-align: center;
+    margin-bottom: 42px;
+}
+
+#box h1{
+    margin-bottom: 28ps;
+}
